@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner-light.svg" width="100%" alt="Raheel Baig Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Raheel Baig Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Raheel Baig 👋</h1>
