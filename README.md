@@ -3,7 +3,7 @@
   <img src="./assets/banner.svg" width="100%" alt="Raheel Baig Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Raheel Baig 👋</h1>
+<h1 align="center">👋</h1>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -63,7 +63,7 @@ I love creating clean UIs, solving complex problems, and working on impactful di
   <a href="https://www.linkedin.com/in/raheelbaig">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48px"/>
   </a>
-  <a href="mailto:raheelbaig@gmail.com">
+  <a href="mailto:baig8911@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48px"/>
   </a>
 </p>
