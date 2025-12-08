@@ -26,12 +26,12 @@ I'm a **Software Engineer** and **Frontend Developer** with 4+ years of experien
 - **React.js**
 - **TypeScript**
 - **Tailwind CSS**
-- **Sanity**
+- **JavaScript**
 - **Redux / Zustand**
-- **MedusaJS**
-- **Stripe Integration**
+- **Postgresql**
+- **GraphQL**
 - **Firebase**
-- Shopify Apps (Remix / Next.js)
+
 
 I love creating clean UIs, solving complex problems, and working on impactful digital products.
 
