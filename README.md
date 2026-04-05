@@ -22,8 +22,8 @@
 ## 🧑‍💻 About Me
 I'm a **Software Engineer** and **Frontend Developer** with 4+ years of experience building smooth, modern, fast web applications using:
 
-- **Next.js** (15)
 - **React.js**
+- **Next.js** 
 - **TypeScript**
 - **Tailwind CSS**
 - **JavaScript**
