@@ -20,7 +20,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a **Software Engineer** and **Frontend Developer** with 4+ years of experience building smooth, modern, fast web applications using:
+I'm a **Software Engineer** and **Frontend Developer** with 5+ years of experience building smooth, modern, fast web applications using:
 
 - **React.js**
 - **Next.js** 
