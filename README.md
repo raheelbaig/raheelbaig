@@ -261,12 +261,12 @@ A social web experience built around motion and immediacy — an interface desig
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raheelbaig&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FFFF23&icon_color=FFFF23&text_color=C9D1D9&ring_color=FFFF23" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=raheelbaig&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFF23&icon_color=FFFF23&text_color=C9D1D9&ring_color=FFFF23" alt="GitHub Stats" />
 <img width="48%" src="https://streak-stats.demolab.com?user=raheelbaig&hide_border=true&background=0D1117&border=0D1117&ring=FFFF23&fire=FFFF23&currStreakLabel=FFFF23&sideLabels=C9D1D9&dates=8B949E&stroke=FFFF23&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak Stats" />
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheelbaig&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFF23&text_color=C9D1D9" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raheelbaig&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFF23&text_color=C9D1D9" alt="Top Languages" />
 
 <br/><br/>
 
