@@ -270,11 +270,7 @@ A social web experience built around motion and immediacy — an interface desig
 
 <br/><br/>
 
-<b>C O N T R I B U T I O N &nbsp; C A L E N D A R &nbsp;&nbsp;·&nbsp;&nbsp; L A S T &nbsp; 1 2 &nbsp; M O N T H S</b>
-
-<br/><br/>
-
-<img width="98%" src="https://ghchart.rshah.org/FFFF23/raheelbaig" alt="Contribution Calendar" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=raheelbaig&bg_color=0D1117&color=FFFF23&line=FFFF23&point=FFFFFF&area=true&area_color=FFFF23&title_color=FFFF23&hide_border=true" alt="Activity Graph" />
 
 <br/><br/>
 
