@@ -21,7 +21,7 @@
 <h1>R A H E E L &nbsp; B A I G</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/FRONTEND_ENGINEER-0D1117?style=for-the-badge&labelColor=FFFF23&color=0D1117" alt="Frontend Engineer" />
+  <img src="https://img.shields.io/badge/FRONTEND_ENGINEER-0D1117?style=for-the-badge&labelColor=FFFF23&color=0D1117" alt="Frontend-Focused Full-Stack Engineer" />
   <img src="https://img.shields.io/badge/PAKISTAN-0D1117?style=for-the-badge&logo=googlemaps&logoColor=FFFF23" alt="Pakistan" />
   <img src="https://img.shields.io/badge/5%2B_YEARS-0D1117?style=for-the-badge&logo=clockify&logoColor=FFFF23" alt="5+ Years" />
 </p>
